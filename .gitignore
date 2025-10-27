@@ -1,0 +1,11 @@
+# Global ignores
+node_modules/
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore frontend & backend builds
+frontend/build/
+backend/dist/
+backend/logs/
