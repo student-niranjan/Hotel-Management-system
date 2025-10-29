@@ -1,0 +1,1 @@
+export const mydb ="Resturant Management system "
