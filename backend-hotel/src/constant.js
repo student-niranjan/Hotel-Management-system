@@ -1,0 +1,1 @@
+export const datbasehotel ="Resturant Management system "
